@@ -5,7 +5,6 @@
 ## Requirements
 
 - **Java JDK 22** (Set the `JAVA_HOME` path in environment variables)
-- **Selenium WebDriver**
 - **ChromeDriver** (Download and set the path in `C:\Drivers\chromedriver.exe`)
 - Compatible with **Windows and Kali Linux**
 
@@ -38,7 +37,7 @@ Ensure that you have Java JDK 22 or later installed. Set up the environment vari
 
 You must have ChromeDriver installed and placed in `C:\Drivers\chromedriver.exe`.
 
-- **Download ChromeDriver**: [Download Link](https://drive.google.com/drive/folders/1iky5txX0ZqsXQyla2hekqDihmChaR3Ch?usp=drive_link)
+- **Download ChromeDriver**: [Download Link](https://drive.google.com/drive/folders/1iky5txX0ZqsXQyla2hekqDihmChaR3Ch?usp=sharing)
 - Place the downloaded file in `C:\Drivers\chromedriver.exe`.
 
 ### 3. Running the XSS Scanner Tool
