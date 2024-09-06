@@ -6,8 +6,6 @@
 
 - **Java JDK 22** (Set the `JAVA_HOME` path in environment variables)
 - **ChromeDriver** (Download and set the path in `C:\Drivers\chromedriver.exe`)
-- Compatible with **Windows and Kali Linux**
-
 ## Features
 
 - **Multi-threading** support for faster scanning
