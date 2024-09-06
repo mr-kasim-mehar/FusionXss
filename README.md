@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- **Java JDK 8+** (Set the `JAVA_HOME` path in environment variables)
+- **Java JDK 22** (Set the `JAVA_HOME` path in environment variables)
 - **Selenium WebDriver**
 - **ChromeDriver** (Download and set the path in `C:\Drivers\chromedriver.exe`)
 - Compatible with **Windows and Kali Linux**
@@ -26,7 +26,7 @@
 
 Ensure that you have Java JDK 22 or later installed. Set up the environment variables to run the tool.
 
-- **Download Java JDK**: [Download Link](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+- **Download Java JDK**: [Download Link](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
 - **Set JAVA_HOME Environment Variable**:
   1. Go to **System Properties**.
   2. Click on **Environment Variables**.
