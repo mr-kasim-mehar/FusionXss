@@ -1,4 +1,4 @@
-# XSS Scanner Tool (Stable)
+# Fusion XSS (Stable)
 
 **XSS Scanner Tool** is a powerful tool built in Java using Selenium to help bug bounty hunters and penetration testers detect XSS vulnerabilities on target websites. The tool supports multi-threading, cookie management, custom payloads, and more. It is available as an executable JAR and requires Java to run.
 
