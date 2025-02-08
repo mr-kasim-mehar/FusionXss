@@ -70,7 +70,7 @@ java -jar FusionXss.jar --url https://example.com --cookies sessionId:abc123:/ -
 | `--threads <number>`           | Number of threads for concurrent scanning.                          |
 | `--view <on/off>`              | Toggle browser visibility (default: off).                           |
 
-![XSS Scanner](https://github.com/mr-kasim-mehar/myimgs/blob/main/Git.png)
+![XSS Scanner](https://raw.githubusercontent.com/mr-kasim-mehar/myimgs/refs/heads/main/fxss.png)
 
 #### Code Contributers:
 - @zabi545
