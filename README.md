@@ -46,16 +46,16 @@ Ensure that you have Java JDK 22 or later installed. Set up the environment vari
 The tool can be run with various command-line arguments for flexible scanning.
 
 ```bash
-FusionXss.exe --url <url> [options]
+java -jar FusionXss.jar --url <url> [options]
 ```
 ```
-FusionXss.exe --file urls.txt --threads 4 --timeout 2 --payloads Min_Payloads.txt
+java -jar FusionXss.jar --file urls.txt --threads 4 --timeout 2 --payloads Min_Payloads.txt
 ```
 ```
-FusionXss.exe --file urls.txt --threads 4 --timeout 2 --payloads Min_Payloads.txt
+java -jar FusionXss.jar --file urls.txt --threads 4 --timeout 2 --payloads Min_Payloads.txt
 ```
 ```
-FusionXss.exe --url https://example.com --cookies sessionId:abc123:/ --payloads customPayloads.txt
+java -jar FusionXss.jar --url https://example.com --cookies sessionId:abc123:/ --payloads customPayloads.txt
 ```
 
 
