@@ -71,3 +71,6 @@ FusionXss.exe --url https://example.com --cookies sessionId:abc123:/ --payloads 
 | `--view <on/off>`              | Toggle browser visibility (default: off).                           |
 
 ![XSS Scanner](https://github.com/mr-kasim-mehar/myimgs/blob/main/Git.png)
+
+#### Code Contributers:
+- @zabi545
