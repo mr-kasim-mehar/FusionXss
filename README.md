@@ -1,4 +1,4 @@
-# XSS Scanner Tool (Beta Version)
+# XSS Scanner Tool (Stable)
 
 **XSS Scanner Tool** is a powerful tool built in Java using Selenium to help bug bounty hunters and penetration testers detect XSS vulnerabilities on target websites. The tool supports multi-threading, cookie management, custom payloads, and more. It is available as an executable JAR and requires Java to run.
 
@@ -31,16 +31,15 @@ Ensure that you have Java JDK 22 or later installed. Set up the environment vari
   4. Add `JAVA_HOME` as the variable name and the path of your JDK folder as the value (e.g., `C:\Program Files\Java\jdk-22`).
   5. Edit the **Path** variable, and add C:\Program Files\Java\jdk-22\bin`.
 
-### 2. ChromeDriver Setup
+### 2. ChromeDriver Setup 7 Google Chrome
 
-You must have ChromeDriver installed and placed in `C:\Drivers\chromedriver.exe`.
+- You must have ChromeDriver installed and placed in `C:\Drivers\chromedriver.exe`.
+- Install the Latest Version of Google Chrome
 
-- **Download ChromeDriver**: [Download Link](https://drive.google.com/drive/folders/1iky5txX0ZqsXQyla2hekqDihmChaR3Ch?usp=sharing)
+- **Download ChromeDriver**: [Download Link](https://googlechromelabs.github.io/chrome-for-testing/)
+- Install the Latest version of Chrome driver
 - Place the downloaded file in `C:\Drivers\chromedriver.exe`.
-
-### 3. Running the XSS Scanner Tool
-
-Once Java and ChromeDriver are set up, you can run the XSS scanner.
+  
 
 #### Command-Line Arguments
 
