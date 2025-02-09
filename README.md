@@ -35,9 +35,7 @@ Ensure that you have Java JDK 22 or later installed. Set up the environment vari
 
 - You must have ChromeDriver installed and placed in `C:\Drivers\chromedriver.exe`.
 - Install the Latest Version of Google Chrome
-
 - **Download ChromeDriver**: [Download Link](https://googlechromelabs.github.io/chrome-for-testing/)
-- Install the Latest version of Chrome driver
 - Place the downloaded file in `C:\Drivers\chromedriver.exe`.
   
 
